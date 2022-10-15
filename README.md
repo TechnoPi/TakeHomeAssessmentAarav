@@ -128,8 +128,6 @@ Student C: 40%
 
 We kindly ask that you complete your assessment by the end of next week (10/14). If you have any trouble meeting that deadline but are still committed to the position, feel free to reach out.
 
-Once you have completed this challenge, we ask that you email it over to Sam DuBois at `sdubois@umass.edu`  (Please reply to the existing thread of emails). You can send it via an attachment or Github Repository link.
-
 If you have any questions over the course of this assignment just reach out!
 
 Thank you all and happy coding!
